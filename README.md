@@ -1,3 +1,3 @@
 # module-b
 working on submodule b
-update v3
+update v4
